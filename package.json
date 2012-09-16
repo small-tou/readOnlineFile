@@ -1,0 +1,16 @@
+{
+    "name":"readof",
+    "description":"读取远程文件到指定路径并提供回调",
+    "version":"0.9.1",
+    "keywords":"read online romote",
+    "contributors":[{
+        "name": "yutou",
+        "email": "xinyu198736@gmail.com"
+    }],
+    "licenses": [{
+        "type": "GPLv2",
+        "url": "http://www.example.com/licenses/gpl.html"
+    }],
+    "repositories":"https://bitbucket.org/xinyu198736/readonlinefile/wiki/Home",
+    "dependencies":[]
+}
