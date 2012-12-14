@@ -1,7 +1,7 @@
 {
     "name":"readof",
     "description":"读取远程文件到指定路径并提供回调",
-    "version":"0.9.3",
+    "version":"0.9.4",
     "keywords":"read online romote",
     "contributors":[{
         "name": "yutou",

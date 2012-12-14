@@ -32,7 +32,7 @@ readOnlinePic
 #code
 <pre>
     var readOF=require("readof");
-         readOF.read(pic,target_path,function(data,error){
+         readOF.read(pic,target_path,function(error,data){
             //do something
     });
     </pre>
